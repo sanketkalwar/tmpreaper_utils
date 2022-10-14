@@ -1,0 +1,30 @@
+(PID 15411) Pretending to clean up directory `/scratch'.
+Pretending to remove file `/scratch/run_tmpreaper.sh'.
+(PID 15412) Pretending to clean up directory `test1'.
+Pretending to remove file `test1/run_tmpreaper.sh'.
+Pretending to remove file `test1/get_backup.sh'.
+Pretending to remove file `test1/test_tmpreaper.sh'.
+(PID 15412) Back from recursing down `test1'.
+(PID 15412) Pretending to clean up directory `test3'.
+Entry matching `--protect' pattern skipped. `test3/run_tmpreaper.sh'
+Entry matching `--protect' pattern skipped. `test3/get_backup.sh'
+Entry matching `--protect' pattern skipped. `test3/test_tmpreaper.sh'
+(PID 15412) Back from recursing down `test3'.
+(PID 15412) Pretending to clean up directory `test2'.
+Entry matching `--protect' pattern skipped. `test2/run_tmpreaper.sh'
+(PID 15415) Pretending to clean up directory `test3'.
+Pretending to remove file `test3/run_tmpreaper.sh'.
+(PID 15416) Pretending to clean up directory `test3'.
+Pretending to remove file `test3/run_tmpreaper.sh'.
+Pretending to remove file `test3/get_backup.sh'.
+Pretending to remove file `test3/test_tmpreaper.sh'.
+(PID 15416) Back from recursing down `test3'.
+Pretending to remove file `test3/get_backup.sh'.
+Pretending to remove file `test3/test_tmpreaper.sh'.
+(PID 15415) Back from recursing down `test3'.
+Entry matching `--protect' pattern skipped. `test2/test3'
+Entry matching `--protect' pattern skipped. `test2/get_backup.sh'
+Entry matching `--protect' pattern skipped. `test2/test_tmpreaper.sh'
+(PID 15412) Back from recursing down `test2'.
+Pretending to remove file `/scratch/get_backup.sh'.
+Pretending to remove file `/scratch/test_tmpreaper.sh'.
